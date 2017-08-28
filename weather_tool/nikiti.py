@@ -22,4 +22,5 @@ def activities():
         act = 'Spend a beautiful day at the beach!'
     else :
         act = 'Stay inside and don\'t die'
+    print("The current temperature in Nikiti is " + str(temp) + " degrees C.")
     print(act)
